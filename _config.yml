@@ -13,8 +13,8 @@ title                    : "Valentyna Maltseva / Valentyna Maltseva"
 title_separator          : "-"
 name                     : &name "Valentyna Maltseva"
 description              : &description "biomedical researcher"
-url                      : "https://valentynamaltseva.github.io/valentynamaltseva"
-baseurl                  : "/valentynamaltseva"
+url                      : "https://valentynamaltseva.github.io"
+baseurl                  : ""
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
