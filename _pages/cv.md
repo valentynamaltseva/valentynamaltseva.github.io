@@ -45,4 +45,9 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Contacts
+======
+
+  📧 [maltseva.val.evg@gmail.com](mailto:maltseva.val.evg@gmail.com)
   
