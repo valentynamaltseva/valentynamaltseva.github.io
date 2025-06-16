@@ -11,54 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Taras Shevchenko National University of Kyiv, Ukraine, 2018 
+* M.S. in H.S.Skovoroda Kharkiv National Pedagogical University, Kharkiv, Ukraine 2007
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+2007-till now: Sytenko Institute of Spine and Joint Pathology National Academy of Medical Sciences of Ukraine, Laboratory of connective tissue morphology
+* Spring 2024- till now: Lab Head
+* 2019-2024: Senior Resercher
+* 2016-2019: Researcher
+* 2013-2016: Junior Researcher
+* 2007-2013: Laboratory Assistant
+   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Biomedical Sciences
+  * Skeletal tissue histology
+  * Biomaterials testing in vivo: titanium, bioglass, carbon, tantalum
+  * In vivo modeling of osteoporosis and intervertebral disc degeneration
+  * Bone densitometry
+  * Histomorphometry
+* Laboratory Techniques
+  * Tissue processing, manual microtomy (including hard tissue), histological troubleshooting, staining
+* Data & Research Tools
+  * Python: data processing, automation,  statistical analysis, visualisation, data interpretation
+  * Scientific writing and literature review
+* Other
+  * Real-world experience in resource-limited lab settings
+ 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
