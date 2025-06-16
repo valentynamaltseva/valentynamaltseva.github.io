@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Valentyna Maltseva / Valentyna Maltseva"
+title                    : "Valentyna Maltseva / Валентина Мальцева"
 title_separator          : "-"
 name                     : &name "Valentyna Maltseva"
 description              : &description "biomedical researcher"
