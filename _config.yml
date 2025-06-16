@@ -27,8 +27,8 @@ author:
   pronouns         :  "she/her"  
   bio              : 
   location         : "Kharkiv"
-  employer         : "Sytenko Institute of Spine and Joint Pathology NAMSU"
-  uri              : # URL
+  employer         : "Lab Head, Sytenko Institute of Spine and<br>Joint Pathology NAMSU"
+  uri              : "https://sytenko.org.ua/en/scientific-subdivisions/laboratory-of-connective-tissue-morphology/"
   email            : "maltseva.val.evg@gmail.com" 
 
   # Academic websites
@@ -36,7 +36,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=257ucPMAAAAJ&hl"
   impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-9184-0536"
+  orcid            : "https://orcid.org/0000-0002-9184-0536"
   semantic         : "https://www.semanticscholar.org/author/Valentyna-Ye-Maltseva/78125815"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=valentyna+maltseva&sort_order=asc"
   researchgate     : "https://www.researchgate.net/profile/Valentyna-Maltseva"
