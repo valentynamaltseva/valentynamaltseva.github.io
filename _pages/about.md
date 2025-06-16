@@ -14,7 +14,8 @@ Research Focus
 ======
 * Biocompatibility testing of titanium-based implants  
 * Intervertebral disc degeneration
-* Bone densitometry and osteoporosis modeling  
+* Bone densitometry
+* Osteoporosis modeling in vivo
 * Histological techniques and tissue analysis  
 * Fluorescence and histological image analysis  
 
