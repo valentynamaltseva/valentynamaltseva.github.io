@@ -27,9 +27,9 @@ author:
   pronouns         :  "she/her"  
   bio              : 
   location         : "Kharkiv"
-  employer         : "Lab Head, Sytenko Institute of Spine and<br>Joint Pathology NAMSU"
+  employer         : "Lab Head, Sytenko Institute of Spine<br>and Joint Pathology NAMSU"
   uri              : "https://sytenko.org.ua/en/scientific-subdivisions/laboratory-of-connective-tissue-morphology/"
-  email            : "maltseva.val.evg@gmail.com" 
+  email            : ""<a href='mailto:maltseva.val.evg@gmail.com'>maltseva.val.evg@gmail.com</a>"" 
 
   # Academic websites
   academia         : # URL
