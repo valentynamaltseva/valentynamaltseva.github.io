@@ -19,3 +19,4 @@ Research Focus
 * Histological techniques and tissue analysis  
 * Fluorescence and histological image analysis  
 
+![Word Cloud of My Research Keywords](/images/Cloud_words_Maltseva.png)
