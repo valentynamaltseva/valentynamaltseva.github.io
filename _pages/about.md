@@ -15,8 +15,7 @@ Research Focus Areas
 *Degenerative spine disease: investigation of risk factors (e.g., obesity, muscle degeneration, heavy metal exposure), and in vivo experimental modeling.
 *Bone regeneration: evaluation of bone allografts under different biological conditions (e.g., aging), and application of platelet-rich plasma (PRP).
 
-For a comprehensive list of my publications, please visit my [Publications](/_publications/) page. You can find more details about my academic journey and skills in my [CV](/cv/). I am always open to connecting with fellow researchers and practitioners. Feel free to contact me at [maltseva.val.evg@email.com] 
+For a comprehensive list of my publications, please visit my [Publications](/publications/) page. You can find more details about my academic journey and skills in my [CV](/cv/). I am always open to connecting with fellow researchers and practitioners. Feel free to contact me at [maltseva.val.evg@email.com] 
 
 
-Cloud of My Research Keywords
-(/images/cloud_keywords.png)
+![Cloud of My Research Keywords](/images/cloud_keywords.png)
