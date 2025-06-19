@@ -7,16 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I'm a scientist working at the intersection of experimental histology, biomaterials, and regenerative medicine.  
-My research focuses on the preclinical assessment of both novel and clinically established biomaterials for bone implants, tested under healthy and osteoporotic conditions in accordance with ISO guidelines. Additionally, I explore intervertebral disc degeneration using rat models by analyzing experimentally induced pathogenic factors. 
+I am a Head of Laboratory of connective tissue morphology at Sytenko Institute of Spine and Joint Pathology NAMSU (Kharkiv, Ukraine), specializing in musculoskeletal pathology, orthopedic biomaterials, and regenerative approaches. My work focuses on the biological response to implants, bone healing mechanisms, and the impact of systemic and environmental factors on skeletal health. I conduct preclinical assessments of both novel and clinically established biomaterials for bone implants, tested under healthy and osteoporotic conditions in accordance with ISO guidelines. Additionally, I investigate intervertebral disc degeneration using rat models by analyzing experimentally induced pathogenic factors.
 
-Research Focus
+Research Focus Areas
 ======
-* Biocompatibility testing of titanium-based implants  
-* Intervertebral disc degeneration
-* Bone densitometry
-* Osteoporosis modeling in vivo
-* Histological techniques and tissue analysis  
-* Fluorescence and histological image analysis  
+*Hip arthroplasty: testing of novel biomaterials, analysis of complications and risk factors, including osteoporosis.
+*Degenerative spine disease: investigation of risk factors (e.g., obesity, muscle degeneration, heavy metal exposure), and in vivo experimental modeling.
+*Bone regeneration: evaluation of bone allografts under different biological conditions (e.g., aging), and application of platelet-rich plasma (PRP).
 
-![Word Cloud of My Research Keywords](/images/Cloud_words_Maltseva.png)
+For a comprehensive list of my publications, please visit my [Publications](/_publications/) page. You can find more details about my academic journey and skills in my [CV](/cv/). I am always open to connecting with fellow researchers and practitioners. Feel free to contact me at [maltseva.val.evg@email.com] 
+
+
+Cloud of My Research Keywords
+(/images/cloud_keywords.png)
