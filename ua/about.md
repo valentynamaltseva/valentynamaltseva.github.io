@@ -1,7 +1,8 @@
 ---
-permalink: /
+permalink: /ua/about
 title: "Про мене"
 author_profile: true
+lang: uk
 redirect_from: 
   - /about/
   - /about.html
