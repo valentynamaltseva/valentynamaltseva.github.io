@@ -17,9 +17,9 @@ Education
 
 Work experience
 ======
-2007-till now: Sytenko Institute of Spine and Joint Pathology National Academy of Medical Sciences of Ukraine, Laboratory of connective tissue morphology
+2007-till now: Sytenko Institute of Spine and Joint Pathology of the National Academy of Medical Sciences of Ukraine, Laboratory of connective tissue morphology
 * Spring 2024- till now: Lab Head
-* 2019-2024: Senior Resercher
+* 2019-2024: Senior Researcher
 * 2016-2019: Researcher
 * 2013-2016: Junior Researcher
 * 2007-2013: Laboratory Assistant
