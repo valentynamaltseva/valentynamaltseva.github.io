@@ -18,6 +18,8 @@ lang: uk
 
 ![Cloud of My Research Keywords](/images/cloud_keywords.png)
 
+[Read in English](/)
+
 <p style="display:none;">
   Валентина Мальцева, Мальцева Валентина, В. Мальцева, Мальцева Валентина Євгенівна, Мальцева В.Є., Maltseva Valentyna
 </p>
