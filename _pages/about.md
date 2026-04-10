@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Head of Laboratory of connective tissue morphology at Sytenko Institute of Spine and Joint Pathology NAMSU (Kharkiv, Ukraine), specializing in musculoskeletal pathology, orthopedic biomaterials, and regenerative approaches. My work focuses on the biological response to implants, bone healing mechanisms, and the impact of systemic and environmental factors on skeletal health. I conduct preclinical assessments of both novel and clinically established biomaterials for bone implants, tested under healthy and osteoporotic conditions in accordance with ISO guidelines. Additionally, I investigate intervertebral disc degeneration using rat models by analyzing experimentally induced pathogenic factors.
+I am a Chief Researcher of Department of Transplantology and Morphology of the Musculoskeletal System with Experimental Biology Clinic at Sytenko Institute of Spine and Joint Pathology NAMSU (Kharkiv, Ukraine), specializing in musculoskeletal pathology, orthopedic biomaterials, and regenerative approaches. My work focuses on the biological response to implants, bone healing mechanisms, and the impact of systemic and environmental factors on skeletal health. I conduct preclinical assessments of both novel and clinically established biomaterials for bone implants, tested under healthy and osteoporotic conditions in accordance with ISO guidelines. Additionally, I investigate intervertebral disc degeneration using rat models by analyzing experimentally induced pathogenic factors.
 
 Research Focus Areas
 ======
