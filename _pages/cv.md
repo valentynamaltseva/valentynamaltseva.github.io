@@ -18,16 +18,14 @@ Education
 Work experience
 ======
 2007-till now: Sytenko Institute of Spine and Joint Pathology of the National Academy of Medical Sciences of Ukraine 
-
-Department of Transplantology and Morphology of the Musculoskeletal System:
-* 2026-till now: Chief researcher
-
-Laboratory of connective tissue morphology:  
-* 2024-2026: Lab Head
-* 2019-2024: Senior Researcher
-* 2016-2019: Researcher
-* 2013-2016: Junior Researcher
-* 2007-2013: Laboratory Assistant
+* Department of Transplantology and Morphology of the Musculoskeletal System:
+  * 2026-till now: Chief researcher
+* Laboratory of connective tissue morphology:  
+  * 2024-2026: Lab Head
+  * 2019-2024: Senior Researcher
+  * 2016-2019: Researcher
+  * 2013-2016: Junior Researcher
+  * 2007-2013: Laboratory Assistant
    
 Skills
 ======
